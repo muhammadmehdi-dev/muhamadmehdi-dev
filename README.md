@@ -44,15 +44,4 @@ Focused on clean architecture, scalable APIs, real-time systems, and production-
 
 ---
 
-## Selected Projects
-
-Pin these repositories on your profile:
-
-- Carscrack Backend Platform  
-- Real-Time Chat System (Django Channels)  
-- Role-Based Vendor System  
-- CMS Customization (Wagtail Platform)
-
----
-
 Building backend foundations that products scale on.
