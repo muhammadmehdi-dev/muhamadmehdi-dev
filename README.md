@@ -38,10 +38,9 @@ Focused on clean architecture, scalable APIs, real-time systems, and production-
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamadmehdi-dev&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmehdi-dev&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadmehdi-dev&layout=compact&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmehdi-dev&layout=compact&theme=transparent&hide_border=true)
 ---
 
 Building backend foundations that products scale on.
