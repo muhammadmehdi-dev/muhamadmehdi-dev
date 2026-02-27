@@ -10,19 +10,13 @@ Focused on clean architecture, scalable APIs, real-time systems, and production-
 ## Tech Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-000000?style=for-the-badge)
-![Celery](https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery)
+Python · Django · Django REST Framework · Celery
 
 ### Infrastructure
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean)
+Redis · Docker · DigitalOcean
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+MySQL · MongoDB · PostgresSQL
 
 ---
 
@@ -34,12 +28,6 @@ Focused on clean architecture, scalable APIs, real-time systems, and production-
 - Real-Time Communication Systems
 - Secure Authentication & Role-Based Access
 
----
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammadmehdi-dev&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadmehdi-dev&layout=compact&hide_border=true)
 ---
 
 Building backend foundations that products scale on.
